@@ -241,7 +241,7 @@
            id="tspan23178"
            style="text-align:end;text-anchor:end;fill:#f4fff6;fill-opacity:1;stroke:none;stroke-width:2.1"
            x="81.985252"
-           y="177.74301">Update CHANGELOG.md</tspan></text>
+           y="177.74301">Update CHANGELOG_CHERRYPICK.md</tspan></text>
     </g>
     <g
        id="g23285"
@@ -474,7 +474,7 @@
          id="tspan30624"
          style="text-align:start;text-anchor:start;fill:#f4fff6;fill-opacity:1;stroke:none;stroke-width:2.10116"
          x="111.34943"
-         y="318.39606">[skip ci] Update CHANGELOG.md (prepend template)</tspan></text>
+         y="318.39606">[skip ci] Update CHANGELOG_CHERRYPICK.md (prepend template)</tspan></text>
     <g
        id="g31520"
        transform="translate(19.318904,-2.6811968)">
@@ -517,7 +517,7 @@
            id="tspan31461"
            style="text-align:end;text-anchor:end;fill:#f4fff6;fill-opacity:1;stroke:none;stroke-width:2.1"
            x="81.985252"
-           y="251.93762">Update CHANGELOG.md</tspan></text>
+           y="251.93762">Update CHANGELOG_CHERRYPICK.md</tspan></text>
     </g>
     <g
        id="g31479"
@@ -740,7 +740,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.28061"
          x="151.09654"
          y="202.4575"
-         id="tspan33369">If CHANGELOG.md is edited, the PR description will be updated.</tspan></text>
+         id="tspan33369">If CHANGELOG_CHERRYPICK.md is edited, the PR description will be updated.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.3072px;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Medium';text-align:start;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.2566;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
@@ -800,7 +800,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.39051"
          x="155.6615"
          y="119.90715"
-         id="tspan38616">the content of CHANGELOG.md.</tspan></text>
+         id="tspan38616">the content of CHANGELOG_CHERRYPICK.md.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.59262px;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Heavy';text-align:start;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.80316;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
@@ -840,7 +840,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.39051"
          x="152.84511"
          y="304.33383"
-         id="tspan34705">4. Prepend the template to CHANGELOG.md in develop</tspan></text>
+         id="tspan34705">4. Prepend the template to CHANGELOG_CHERRYPICK.md in develop</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.62212px;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Medium';text-align:start;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.39051;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
@@ -899,7 +899,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Medium';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.39051"
          x="144.13104"
          y="247.90225"
-         id="tspan34735">Fix bugs and modify CHANGELOG.md if needed</tspan></text>
+         id="tspan34735">Fix bugs and modify CHANGELOG_CHERRYPICK.md if needed</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.92993px;font-family:'GenEi Univer Sans';-inkscape-font-specification:'GenEi Univer Sans Heavy';text-align:start;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.94658;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"

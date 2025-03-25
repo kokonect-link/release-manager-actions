@@ -26,7 +26,7 @@ The core workflow that is manually triggered. It has three functions:
 4. Issue a stable release and merge PR, when you check `MERGE RELEASE BRANCH TO MAIN`
 
 #### ⅱ. release-edit-with-push.yml
-This workflow changes the description of the PR when CHANGELOG.md is changed.
+This workflow changes the description of the PR when CHANGELOG_CHERRYPICK.md is changed.
 
 You must modify line#6 with the default (develop) branch.
 

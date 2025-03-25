@@ -81,21 +81,21 @@ jobs:
           PRERELEASE_CHANNEL: ${{ inputs.draft_prerelease_channel }}
       # バージョンをpackage.jsonに書き込み
       - name: Write version
-        uses: misskey-dev/release-manager-actions/.github/actions/rewrite-package-json@v2
+        uses: kokonect-link/release-manager-actions/.github/actions/rewrite-package-json@v2
         with:
           version: ${{ steps.release_version.outputs.result }}
           package_jsons: ${{ inputs.package_jsons_to_rewrite }}
           indent: ${{ inputs.indent }}
-      # CHANGELOG.mdのUnreleasedの内容を取得
+      # CHANGELOG_CHERRYPICK.mdのUnreleasedの内容を取得
       - name: Get changelog
-        uses: misskey-dev/release-manager-actions/.github/actions/get-changelog@v2
+        uses: kokonect-link/release-manager-actions/.github/actions/get-changelog@v2
         with:
           version: Unreleased
         id: changelog
-      # CHANGELOG.mdのバージョンの書き換え
-      - name: Modify CHANGELOG.md
+      # CHANGELOG_CHERRYPICK.mdのバージョンの書き換え
+      - name: Modify CHANGELOG_CHERRYPICK.md
         run: |
-          sed -i "s/## Unreleased/## $TARGET_VERSION/" CHANGELOG.md
+          sed -i "s/## Unreleased/## $TARGET_VERSION/" CHANGELOG_CHERRYPICK.md
         env:
           TARGET_VERSION: ${{ steps.target_version.outputs.result }}
       # pushとタグを作成
